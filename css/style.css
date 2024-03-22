@@ -2309,9 +2309,9 @@ audio {
 
 .gc_com_slider_cont_wrapper {
 	float: left;
-	width: 450px;
+	/* width: 450px; */
 	border: 1px solid #e1e1e1;
-	height: 353px;
+	height: 290px;
 }
 
 .gc_com_slider_time_wrapper {
